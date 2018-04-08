@@ -1,5 +1,6 @@
 # DATA101
 01:198:142 
+
 This class aims to provide you with a basic set of tools for data literacy as well as general view of the impact of data on society and elements of common sense data analysis and reasoning.   A significant piece of the class will be learning foundations of  R. R is a statistical software environment and programming language that we’ll use to analyze and visualize datasets.  Learning simple R will take some work; however, if you’re able to master the basics covered in this class, you’ll gain a concrete, marketable skill that may very well be extremely useful in your academic and professional life.   
 
 
